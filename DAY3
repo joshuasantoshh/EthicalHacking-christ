@@ -1,0 +1,12 @@
+Go to kali
+Open the terminal and put command ls
+Whenever u open the new terminal it will open from the home directory 
+Mkdar /rmdar 
+Rm means remove 
+We can create a file in multiple ways 
+First we are going to make an empty file 
+Ls-lh 
+Long list 
+Normal ls 
+Clear the terminal and put man ls
+Man-manual
