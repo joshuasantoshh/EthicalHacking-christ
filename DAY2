@@ -6,6 +6,9 @@ after downloading it ,extract the file and you will have two options
 select the blue coloured file 
 download virtual box from oracle 
 size 119 mb
+assign 2 core 2gb ram in system setting in virtualbox
+NAT-NETWORK ADDRESS TRANSLATOR
+
 start the vm using virtualbox
 it will ask for password and username
 username=kali
